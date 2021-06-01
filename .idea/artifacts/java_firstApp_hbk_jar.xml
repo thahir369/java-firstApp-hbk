@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-firstApp-hbk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_firstApp_hbk_jar</output-path>
+    <root id="archive" name="java-firstApp-hbk.jar">
+      <element id="module-output" name="java-firstApp-hbk" />
+    </root>
+  </artifact>
+</component>
